@@ -123,25 +123,16 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: MSc in Statistics (Data Science),
+      date: "Graduated 2024",
+      organization: "Imperial College London",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: Bachelors in Statistics,
+      date: "Graduated 2023",
+      organization: "Sungshin Women's University",
     }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
-    }
+
 
 #-------------------------------
 # Services Section
@@ -299,5 +290,5 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
-contact-email: steve.fruits@email.com
+#contact-title: Contact Info
+#contact-email: steve.fruits@email.com
