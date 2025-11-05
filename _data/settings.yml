@@ -7,9 +7,9 @@ logo:
 author: themefisher
 description: this is meta description
 email: yujinki35@gmail.com
-phone: +880 2544 658 256
+phone: "+880 2544 658 256"
 address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)"
 
 menu:
   - { name: About, link: "/about" }
@@ -115,7 +115,7 @@ skills:
 #      icon: "icon-3.png",
 #      date: "Sep 2014 - Present",
 #      organization: "THEMEFISHER",
-    }
+#    }
 
 #-------------------------------
 # Education Section
